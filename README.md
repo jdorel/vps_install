@@ -46,3 +46,8 @@ apt install proxmox-ve postfix open-iscsi
 ```
 apt remove os-prober
 ```
+
+## Install torrent client
+```
+apt install transmission -y
+```
