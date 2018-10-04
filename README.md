@@ -5,7 +5,11 @@
     - Kernel checksum verification
   - Disk encryption
 
-On Debian
+## On Debian
+```
+apt update && apt upgrade
+apt install curl
+```
 
 ## Install Proxmox
 Documentation from https://pve.proxmox.com/wiki/Install_Proxmox_VE_on_Debian_Stretch
