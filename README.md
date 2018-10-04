@@ -1,5 +1,10 @@
 # vps_install
 
+## TODO
+  - PXE Loading
+    - Kernel checksum verification
+  - Disk encryption
+
 On Debian
 
 ## Install Proxmox
